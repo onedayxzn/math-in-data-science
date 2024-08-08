@@ -175,7 +175,7 @@ plt.show()
 
 Results of data visualization:
 
-![plot](images\1.png)
+![plot](images/1.png)
 
 The Mathematical Model used to determine the trend used is to use the exponential linear regression model. This model is used because the data provided shows that bag production grows exponentially over time, meaning that the growth is not constant, but increases over time.
 
@@ -256,7 +256,7 @@ print(f"Exponential growth rate (k): {k_hat:.3f}")
 
 ```
 
-![plot](images\2.png)
+![plot](images/2.png)
 
 Initial production (P_0): 1991.311  
 Exponential growth rate (k): 0.015
@@ -442,7 +442,7 @@ Week 143: 16078.612
 
 The following is a comparison of actual and predicted data
 
-![plot](images\3.png)
+![plot](images/3.png)
 
 The accuracy of converting an exponential nonlinear regression mathematical model to predict the production of EGIEaccesibledoor bags.  
 The model was converted into numerical form using Taylor Series approach.
